@@ -1,4 +1,4 @@
-#include "lr.h"
+#include "h.h"
 
 int laba1(){ 
    
